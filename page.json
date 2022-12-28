@@ -4,6 +4,11 @@
   "image_url": "https://raw.githubusercontent.com/mustafagenc/my-links/main/mustafa-genc.jpg",
   "links": [
     {
+      "title": "mustafagenc.info",
+      "url": "https://mustafagenc.info/",
+      "icon": "globe"
+    },
+    {
       "title": "LinkedIn",
       "url": "https://linkedin.com/in/mustafagenc/",
       "icon": "linkedin"
